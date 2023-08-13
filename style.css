@@ -1,0 +1,34 @@
+
+.container-sm{
+    margin-top: 15px;
+    
+}
+
+.row{
+    
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.card-img-top{
+    height: 75px;
+    width: 75px;
+    margin: auto;
+       
+}
+
+.card-text{
+    overflow-y: scroll;
+    max-height: 100px;
+   
+}
+
+.card-body{
+    padding: 10px;
+}
+
+
+
+
+
